@@ -7,5 +7,7 @@ int main() {
     printf("The sum of %d and %d is %d\n", a, b, sum);
    int sub=a - b;
    printf("The sub of %d and %d is %d\n", a, b, sub);
+int multi=a * b;
+printf("The multiple of %d and %d is %d\n", a, b, multi);
 
 }
