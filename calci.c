@@ -9,5 +9,6 @@ int main() {
    printf("The sub of %d and %d is %d\n", a, b, sub);
 int multi=a * b;
 printf("The multiple of %d and %d is %d\n", a, b, multi);
-
+int div=a\b;
+ printf("The div of %d and %d is %d\n", a, b, div);
 }
