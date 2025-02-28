@@ -14,7 +14,7 @@ else:
     division = "Undefined (cannot divide by zero)"
     floor_division = "Undefined (cannot perform floor division by zero)"
 
-
+print("Floor division result:", floor_division)
 print("The sum of the three numbers is:", total)
 print("Subtraction result:", difference)
 print("Multiplication result:", product)
