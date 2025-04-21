@@ -5,3 +5,6 @@ print("Union:", union_set)
 
 intersection_set = set_a.intersection(set_b)
 print("Intersection:", intersection_set)
+
+difference_set = set_a.difference(set_b)
+print("Difference:", difference_set)
