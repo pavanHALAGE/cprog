@@ -11,3 +11,6 @@ print("Difference:", difference_set)
 
 symmetric_diff_set = set_a.symmetric_difference(set_b)
 print("Symmetric Difference:", symmetric_diff_set)
+
+set_a.add(7)  # Add an element to set_a
+print("After adding 7 to set_a:", set_a)
