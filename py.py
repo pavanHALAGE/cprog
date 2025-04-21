@@ -14,3 +14,6 @@ print("Symmetric Difference:", symmetric_diff_set)
 
 set_a.add(7)  # Add an element to set_a
 print("After adding 7 to set_a:", set_a)
+
+set_b.remove(5)  # Remove an element from set_b
+print("After removing 5 from set_b:", set_b)
