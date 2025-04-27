@@ -24,4 +24,8 @@ for key, value in student.items():
     print(key, ":", value)
 
 
+if 'name' in student:
+    print("\nKey 'name' exists!")
+
+
 
