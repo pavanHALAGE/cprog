@@ -28,4 +28,6 @@ if 'name' in student:
     print("\nKey 'name' exists!")
 
 
+print("\nTotal items in dictionary:", len(student))
+
 
