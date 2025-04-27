@@ -13,4 +13,7 @@ print("Accessing 'age':", student.get('age'))
 student['college'] = "NIT Karnataka"
 print("\nAfter Adding 'college':", student)
 
+student['age'] = 23
+print("\nAfter Updating 'age':", student)
+
 
