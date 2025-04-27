@@ -7,3 +7,5 @@ student = {
 print("Original Dictionary:", student)
 
 print("\nAccessing 'name':", student['name'])
+
+print("Accessing 'age':", student.get('age'))
