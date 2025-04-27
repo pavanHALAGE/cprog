@@ -5,3 +5,5 @@ student = {
 }
 
 print("Original Dictionary:", student)
+
+print("\nAccessing 'name':", student['name'])
