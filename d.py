@@ -16,4 +16,7 @@ print("\nAfter Adding 'college':", student)
 student['age'] = 23
 print("\nAfter Updating 'age':", student)
 
+del student['course']
+print("\nAfter Deleting 'course':", student)
+
 
