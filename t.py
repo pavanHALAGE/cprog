@@ -9,4 +9,6 @@ print(my_tuple[-1])
 
 print(my_tuple[1:4])
 
+for item in my_tuple:
+    print(item)
 
