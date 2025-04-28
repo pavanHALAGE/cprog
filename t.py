@@ -7,4 +7,6 @@ print(type(single_element_tuple))
 print(my_tuple[0])  
 print(my_tuple[-1])
 
+print(my_tuple[1:4])
+
 
