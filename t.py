@@ -20,5 +20,10 @@ tuple2 = (3, 4)
 tuple3 = tuple1 + tuple2
 print(tuple3)
 
+sample = (1, 2, 2, 3, 4)
+
+print(sample.count(2))  # Output: 2
+print(sample.index(3))  # Output: 3
+
 
 
