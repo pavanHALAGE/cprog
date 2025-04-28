@@ -25,5 +25,6 @@ sample = (1, 2, 2, 3, 4)
 print(sample.count(2))  # Output: 2
 print(sample.index(3))  # Output: 3
 
-
+a, b, c, d, e = my_tuple
+print(a) 
 
