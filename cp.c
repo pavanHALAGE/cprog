@@ -30,6 +30,10 @@ if (num1 > num2) {
         printf("Both numbers are equal: %d\n", num1);
     }
 
-    return 0;
-}
+    
+if (num1 != 0 && num2 % num1 == 0)
+        printf("%d is divisible by %d\n", num2, num1);
+    else if (num1 != 0)
+        printf("%d is not divisible by %d\n", num2, num1);
+
 
