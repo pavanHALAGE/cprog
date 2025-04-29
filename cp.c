@@ -26,5 +26,10 @@ if (num1 > num2) {
         printf("Largest: %d\n", num2);
         printf("Smallest: %d\n", num1);
 
+} else {
+        printf("Both numbers are equal: %d\n", num1);
+    }
 
+    return 0;
+}
 
