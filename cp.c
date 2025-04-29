@@ -22,5 +22,9 @@ if (num1 > num2) {
         printf("Largest: %d\n", num1);
         printf("Smallest: %d\n", num2);
 
+} else if (num2 > num1) {
+        printf("Largest: %d\n", num2);
+        printf("Smallest: %d\n", num1);
+
 
 
