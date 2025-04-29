@@ -18,5 +18,9 @@ int main() {
  else
         printf("%d is Odd\n", num2);
 
+if (num1 > num2) {
+        printf("Largest: %d\n", num1);
+        printf("Smallest: %d\n", num2);
+
 
 
