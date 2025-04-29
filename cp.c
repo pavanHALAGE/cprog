@@ -9,6 +9,8 @@ int main() {
     
     if (num1 % 2 == 0)
         printf("%d is Even\n", num1);
+ else
+        printf("%d is Odd\n", num1);
 
 
 
