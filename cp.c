@@ -11,6 +11,7 @@ int main() {
         printf("%d is Even\n", num1);
  else
         printf("%d is Odd\n", num1);
-
+ if (num2 % 2 == 0)
+        printf("%d is Even\n", num2);
 
 
