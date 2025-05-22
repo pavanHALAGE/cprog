@@ -33,3 +33,8 @@ print("\nTotal items in dictionary:", len(student))
 student_copy = student.copy()
 print("\nCopied Dictionary:", student_copy)
 
+
+
+
+good luck
+
