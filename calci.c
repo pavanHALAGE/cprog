@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <math.h>
+#include <conio.h>
+
 
 int main() {
     int a = 10;
@@ -12,3 +15,7 @@ printf("The multiple of %d and %d is %d\n", a, b, multi);
 int div=a\b;
  printf("The div of %d and %d is %d\n", a, b, div);
 }
+
+
+#try to ask values from use
+
